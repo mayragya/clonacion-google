@@ -26,4 +26,5 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 
 ## 3. Objetivo del Proyecto: Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3. 
 
-## 4 Link a Demo.
+## 4 Link a Demo. [![Netlify Status](https://api.netlify.com/api/v1/badges/34240181-4cab-461a-9d75-508951184e49/deploy-status)](https://app.netlify.com/sites/clonaciongooglemayragya/deploys)
+
